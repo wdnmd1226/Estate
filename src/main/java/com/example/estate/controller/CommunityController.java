@@ -25,6 +25,7 @@ import java.util.Map;
 @RequestMapping("/community")
 public class CommunityController {
 
+    //test
     @Autowired
     private CommunityService communityService;
 
