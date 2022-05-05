@@ -229,6 +229,7 @@
             //分页查询小区列表
             search() {
                 axios.post("/community/search", this.searchMap).then((res) => {
+                    console.log('res',res);
                     app.communityList = res.data.data;
                     app.total = res.data.total;
                 });
