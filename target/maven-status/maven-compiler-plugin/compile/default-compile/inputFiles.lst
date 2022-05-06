@@ -2,12 +2,17 @@ D:\GraduateDesign\Estate\src\main\java\com\example\estate\entity\Community.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\EstateApplication.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\exception\GlobalExceptionHandler.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\entity\Building.java
+D:\GraduateDesign\Estate\src\main\java\com\example\estate\service\PetService.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\controller\CommunityController.java
+D:\GraduateDesign\Estate\src\main\java\com\example\estate\entity\Pet.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\mapper\CommunityMapper.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\controller\FileController.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\common\PageResult.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\common\Result.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\service\CommunityService.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\common\StatusCode.java
+D:\GraduateDesign\Estate\src\main\java\com\example\estate\controller\PetController.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\service\impl\CommunityServiceImpl.java
 D:\GraduateDesign\Estate\src\main\java\com\example\estate\common\MessageConstant.java
+D:\GraduateDesign\Estate\src\main\java\com\example\estate\service\impl\PetServiceImpl.java
+D:\GraduateDesign\Estate\src\main\java\com\example\estate\mapper\PetMapper.java
