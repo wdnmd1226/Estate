@@ -4,7 +4,6 @@ import com.example.estate.common.MessageConstant;
 import com.example.estate.common.PageResult;
 import com.example.estate.common.Result;
 import com.example.estate.common.StatusCode;
-import com.example.estate.entity.Community;
 import com.example.estate.entity.Pet;
 import com.example.estate.service.PetService;
 import com.github.pagehelper.Page;
