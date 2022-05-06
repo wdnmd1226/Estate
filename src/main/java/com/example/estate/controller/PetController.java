@@ -55,5 +55,11 @@ public class PetController {
         return new Result(true, StatusCode.OK, MessageConstant.COMMUNITY_FIND_BY_ID_SUCCESS, pet);
     }
 
+    @RequestMapping("/update")
+    public Result update(@RequestBody Pet pet) {
+        Boolean update = petService.update(pet);
+        return new Result(true, StatusCode.OK, MessageConstant.COMMUNITY_UPDATE_SUCCESS);
+    }
+
 
 }
