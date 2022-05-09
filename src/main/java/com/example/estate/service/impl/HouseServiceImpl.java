@@ -67,8 +67,8 @@ public class HouseServiceImpl implements HouseService {
         }
         //使用PageHelper插件完成分页
         PageHelper.startPage(pageNum, pageSize);
-        Page<House> pets = (Page<House>) houseMapper.selectByExample(example);
-        return pets;
+        Page<House> houses = (Page<House>) houseMapper.selectByExample(example);
+        return houses;
     }
 
     @Override
